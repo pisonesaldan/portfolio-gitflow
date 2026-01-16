@@ -5,6 +5,9 @@ body {
   margin: 0;
   line-height: 1.4;
 }
+.top {
+  background: #f6f6f6;
+}
 
 .top, .bottom {
   padding: 16px;
