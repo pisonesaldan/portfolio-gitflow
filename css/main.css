@@ -24,6 +24,12 @@ body {
   border-bottom: 1px solid transparent;
 }
 
+.nav a:hover,
+.nav a:focus {
+  border-bottom-color: #333;
+  opacity: 0.85;
+}
+
 .panel {
   border: 1px solid #ddd;
   padding: 14px;
